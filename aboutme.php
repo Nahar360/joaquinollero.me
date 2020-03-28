@@ -166,6 +166,13 @@
 			                            <h4><b>Languages</b></h4>
 			                            <div class="row">
 											<div class="col-md-4">
+					                        	<!--<img alt="Spanish" src="resources/material_kit/img/flags/ES.png" style="width: 23px; height: 17px;">-->
+					                        	<h5>Spanish</h5>
+					                        	<p>Native speaker</p>
+					                        	<script>score(5,0);</script>
+					                        </div>
+											
+											<div class="col-md-4">
 					                            <!--<img alt="English" src="resources/material_kit/img/flags/GB.png" style="width: 23px; height: 17px;">-->
 					                            <h5>English</h5>
 					                            <p>Proficient speaker</p>
@@ -176,13 +183,6 @@
 					                        	</a>
 					                            <p>Overall Band Score - 7.0</p>
 					                            <p>CEFR Level - C1</p>
-					                        </div>
-
-											<div class="col-md-4">
-					                        	<!--<img alt="Spanish" src="resources/material_kit/img/flags/ES.png" style="width: 23px; height: 17px;">-->
-					                        	<h5>Spanish</h5>
-					                        	<p>Native speaker</p>
-					                        	<script>score(5,0);</script>
 					                        </div>
 
 					                        <div class="col-md-4">

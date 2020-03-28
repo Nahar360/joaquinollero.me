@@ -26,6 +26,24 @@
                         <button class="btn btn-default btn-round btn-lg">Google Scholar profile</button>
                     </a>
                 </div>
+				
+				<div class="description text-left">
+                    <h3>2018</h3>
+                    <blockquote>
+                        <p>
+                            <u>Ollero, J.</u>, Child, C. <b>Performance Enhancement of Deep Reinforcement Learning Networks Using Feature Extraction.</b> International Symposium on Neural Networks (ISNN 2018), Minsk, Belarus, June 25-28, (2018).
+                        </p>
+                        <a class="mine" href="resources/docs/ollero_isnn_2018.pdf" target="_blank">
+                            <small>PDF</small>
+                        </a>
+                        <a class="mine" href="resources/docs/ollero_isnn_2018.bib" target="_blank">
+                            <small>BiBTeX</small>
+                        </a>
+                        <a class="mine" href="https://link.springer.com/chapter/10.1007/978-3-319-92537-0_25" target="_blank">
+                            <small>LINK</small>
+                        </a>
+                    </blockquote>
+            	</div>
 
                 <div class="description text-left">
                     <h3>2017</h3>

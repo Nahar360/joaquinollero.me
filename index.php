@@ -54,9 +54,7 @@
 
 	<body>
 		<?php
-			if ($_GET['loc'] != 'naturally') {
-				include 'header.php';
-			}
+			include 'header.php';
 		?>
 
 		<div id='container'>
@@ -73,8 +71,6 @@
 					include 'publications.php';
 				} else if ($_GET['loc'] == 'contact') {
 					include 'contact.php';
-				} else if ($_GET['loc'] == 'naturally') {
-					include 'naturally.php';
 				} else {
 					include 'main.php';
 				}
@@ -82,9 +78,7 @@
 		</div>
 
 		<?php
-			if ($_GET['loc'] != 'naturally') {
-				include 'footer.php';
-			}
+			include 'footer.php';
 		?>
 	</body>
 </html>

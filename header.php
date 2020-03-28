@@ -28,10 +28,17 @@
 						<i class="material-icons">person</i>About me
 					</a>
 				</li>
-				<li>
-					<a href="resources/docs/CV_Joaquin_Ollero.pdf" target="_blank">
-						<i class="material-icons">description</i>CV
-					</a>
+				<li class="dropdown">
+        			<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+        				<i class="material-icons">description</i>
+        				CV
+        				<b class="caret"></b>
+        				<div class="ripple-container"></div>
+        			</a>
+        			<ul class="dropdown-menu">
+						<li><a href="resources/docs/CV_Joaquin_Ollero_ENG.pdf">English</a></li>
+						<li><a href="resources/docs/CV_Joaquin_Ollero_ESP.pdf">Spanish</a></li>
+        			</ul>
 				</li>
 				<li class="dropdown">
         			<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
