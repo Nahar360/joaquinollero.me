@@ -12,6 +12,6 @@
 
 	mail($email_to, $email_subject, $content, $headers);
 
-	header("Location: http://joaquinollero.me/?loc=contact");
+	header("Location: https://joaquinollero.herokuapp.com/?loc=contact");
 	exit();
 ?>
