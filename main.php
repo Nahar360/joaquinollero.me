@@ -13,7 +13,7 @@
                         </div>
                         <div class="name">
                             <h3 class="title">Joaquin Ollero</h3>
-							<h6>Software Engineer <p>Animal Dynamics Ltd.</p></h6>
+							<h6>Applied Simulation Software Engineer <p>Wayve Technologies Ltd.</p></h6>
 							<h6>-</h6>
 							<h6>MSc in Computer Games Technology <p>City, University of London</p></h6>
 							<h6>&</h6>
@@ -27,9 +27,9 @@
                 </div>
 
                 <div class="description text-center">
-                    <p>Originally from Granada (Spain), now living in Oxford (United Kingdom).</p>
-					<p>Full-time Software Engineer at Anymal Dynamics Ltd. As part of the Flight Simulation team, working in the simulation of “Skeeter”, a small-scale drone based on a dragonfly, and “Stork”, a versatile logistics unmanned aerial vehicle designed to transport heavy loads. Programming mainly on C++, using Unreal Engine 4 to produce realistic simulations and Qt/Qml and JavaFx to design UI focused tools used by other teams.</p>
-					<p>My areas of interest are robotics, videogames development, Machine Learning and mobile health systems. I consider myself a passionate of technology, which I think is a form of expression and a tool to improve the world.</p>
+                    <p>Originally from Granada (Spain), now living in London (United Kingdom).</p>
+					<p>Full-time Generalist Simulation Engineer at Wayve Technologies Ltd. where I am mainly working on accelerating the development, validation and understanding of AV2.0 through the usage of large-scale simulation.</p>
+					<p>My areas of interest are simulation (autonomous vehicles, drones...), robotics, videogames development, Machine Learning and mobile health systems. I consider myself a passionate about technology, which I think is a form of expression and a tool to improve the world.</p>
                 </div>
 
             </div>
